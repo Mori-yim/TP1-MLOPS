@@ -21,7 +21,7 @@ Cloner le dépôt :
 
 Bash
 
-git clone https://github.com/votre-username/breast-cancer-mlops.git
+git clone https://github.com/Mori-Yim/breast-cancer-mlops.git
 Installer les dépendances :
 
 Bash
