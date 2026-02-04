@@ -31,4 +31,4 @@ Exécuter le notebook :
 
 Bash
 
-jupyter notebook TP1.ipynb
+jupyter notebook TP1_notebook.ipynb
